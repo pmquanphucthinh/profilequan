@@ -718,3 +718,31 @@ a {
   align-items: center;
   margin-bottom: 2rem;
 }
+.cid-Sz8jb5MIf2 .hidden {
+  display: none;
+}
+.cid-Sz8jb5MIf2 .floating-bar {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #6592e6;
+  color: #ffffff;
+  border-radius: 50%;
+  text-align: center;
+  box-shadow: 2px 2px 2px #999;
+  transition: 0.3s;
+  z-index: 99999;
+}
+.cid-Sz8jb5MIf2 .floating-bar:hover {
+  background-color: #bed3f9;
+}
+.cid-Sz8jb5MIf2 .floating-button {
+  color: #ffffff;
+}
+.cid-Sz8jb5MIf2 .valign {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
